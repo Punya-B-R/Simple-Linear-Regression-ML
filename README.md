@@ -1,7 +1,8 @@
 # Simple-Linear-Regression-ML
 A straightforward implementation of Simple Linear Regression to build predictive models, focusing on understanding the relationship between input and output variables for accurate predictions.
 
-TV Advertisement Sales Prediction using Simple Linear Regression
+TV Advertisement Sales Prediction using Simple Linear Regression:
+
 This project implements a Simple Linear Regression model to predict sales based on the amount invested in TV advertisements. The goal is to analyze the relationship between advertisement expenditure and resulting sales, providing actionable insights for marketing strategies.
 
 Key Features:
